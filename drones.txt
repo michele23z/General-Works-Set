@@ -1,0 +1,7 @@
+d01:A,B,D
+d02:C,E,D
+d03:F,C,E,C,F,A,D,E,B,D
+d04:A,B,E,D
+d05:A,B,A,B,
+d06:A,D
+d07:A,D,A,D,A
